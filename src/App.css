@@ -21,8 +21,8 @@
   color: rgba(255, 255, 255, 1);
   align-items: center;
   justify-content: center;
-  font-weight: 200;
-  letter-spacing: 5px;
+  font-weight: 50px;
+  /* letter-spacing: 2px; */
   margin-bottom: 10px;
   font-family: 'Spartan', sans-serif;
   display: flex;

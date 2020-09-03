@@ -19,7 +19,7 @@ const Clock= (props)=>{
     });
     return(
         <div className="top">
-            <h1>{time.toLocaleTimeString()}</h1>
+            <h3>{time.toLocaleTimeString()}</h3>
         </div>
     )
 }
