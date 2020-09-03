@@ -10,21 +10,42 @@
     background-size:cover;
     background-position: center;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align:center;
 }
+.top{
+  width:40%;
+  height:10%;
+  color: rgba(255, 255, 255, 1);
+  align-items: center;
+  justify-content: center;
+  font-weight: 200;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  font-family: 'Spartan', sans-serif;
+  display: flex;
+}
+.bottom{
+  position: absolute;
+  text-align: center;
+  color:white;
+  letter-spacing: 2px;
+  bottom: 10px;
+  width:100%;
+  font-family: 'Spartan', sans-serif;
+}
 .card{
     background-color: whitesmoke;
     width:40%;
-    height:25%;
+    height:20%;
     display:flex;
     justify-content:center ;
     align-items: center;
     flex-direction:column;
     border-radius: 25px;
-    padding:2%;
+    padding:5%;
     box-shadow: 10px 10px;
     opacity:0.5;
 }
@@ -32,7 +53,7 @@
     display:flex;
     align-items:center;
     height:580px;
-     font-family: 'Spartan', sans-serif;
+    font-family: 'Spartan', sans-serif;
 }
 .button {
     position: relative;
@@ -113,4 +134,3 @@
       }
   }
 
-  

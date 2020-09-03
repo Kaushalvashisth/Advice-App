@@ -3,6 +3,7 @@ import { logDOM } from "@testing-library/react";
 import axios from "axios";
 // import Styles
 import "./App.css";
+import Clock from "./component/clock";
 
 class App extends React.Component{
     state={advice:''};
@@ -27,11 +28,15 @@ class App extends React.Component{
         const { advice }=this.state;
         return (
             <div className="app">
+                <Clock />
                 <div className="card">
                     <h1 className="heading">{advice}</h1>
                     <button className="button" onClick={this.fetchAdvice}>
                         <span>GIVE ME ADVICE!</span>
                     </button>
+                </div>
+                <div className="bottom">
+                    © Kaushal Vashisth 
                 </div>
             </div>
             
