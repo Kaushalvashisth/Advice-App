@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faca4fe2a1a7b9895df4713937bc0b87",
+    "revision": "82792e805eeee698716255530a77891f",
     "url": "/Advice-App/index.html"
   },
   {
-    "revision": "d3934d3c76d634824970",
-    "url": "/Advice-App/static/css/main.ff930e99.chunk.css"
+    "revision": "12d785eb8703eb6f70b5",
+    "url": "/Advice-App/static/css/main.a7a84519.chunk.css"
   },
   {
     "revision": "bc9899777b7fc100ca81",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Advice-App/static/js/2.9fc42f77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3934d3c76d634824970",
+    "revision": "12d785eb8703eb6f70b5",
     "url": "/Advice-App/static/js/main.4b26c91a.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Advice-App/static/js/runtime-main.dd9e22b8.js"
   },
   {
-    "revision": "34311ce842d4b765b047c3fc1245912c",
-    "url": "/Advice-App/static/media/img1.34311ce8.jpg"
+    "revision": "25379cee8c1a9df1be1ce01ddb7e838a",
+    "url": "/Advice-App/static/media/img1.25379cee.jpg"
   }
 ]);
